@@ -8,4 +8,5 @@ int main() {
     std::cin >> name;
     // Вывод приветствия
     std::cout << "Hello world from " << name;
-}
+}// Тут должна была быть реклама
+
